@@ -1,0 +1,20 @@
+.container{
+    background-color: red;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.partie1{
+    background-color: brown;
+    width: 32em;
+}
+.partie2{
+    background-color: brown;
+    width: 32em;
+}
+.partie3{
+    background-color: brown;
+    width: 32em;
+}

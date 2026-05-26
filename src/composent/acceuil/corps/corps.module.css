@@ -1,0 +1,46 @@
+.premier{
+     display: flex;
+    
+     
+    justify-content: space-around;
+    align-items: center;
+}
+.image{
+    
+    border-radius: 5px;
+}
+.haut{
+    color: white;
+    background-color: rgb(0, 81, 255);
+    border-radius: 30px;
+    padding: 15px;
+    text-align: center;
+    width: 12em;
+    margin-bottom: 17px;
+}
+.gras{
+    font-weight: bold;
+    font-size: 33px;
+    margin-bottom: 17px;
+}
+
+.texte{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+}
+.ensavoir{
+  color: white;
+  background: rgb(0, 81, 255);
+  border-radius: 10px;
+  padding: 25px;
+  width: 12em;
+  margin-left: 50em;
+  text-align: center;
+}
+
+.paragraphe{
+    margin: 8px 0;
+    padding: 14px;
+    border-radius: 7px;
+    border-left: 5px solid blue;
+}
